@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoreProcedure", "StoreProcedure.csproj", "{657737F7-C855-4A3C-8C0D-13395DCFE3F4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ado.Ehtesham", "Ado.Ehtesham", "{4CA5B946-0C85-44F0-B157-A909578F8B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{657737F7-C855-4A3C-8C0D-13395DCFE3F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{657737F7-C855-4A3C-8C0D-13395DCFE3F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{657737F7-C855-4A3C-8C0D-13395DCFE3F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{657737F7-C855-4A3C-8C0D-13395DCFE3F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5020B83-7ACA-408F-B46E-5AB621F2DF98}
+	EndGlobalSection
+EndGlobal

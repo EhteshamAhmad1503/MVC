@@ -1,0 +1,14 @@
+﻿@model StronglyTypedView.Models.Student
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    var data = (StronglyTypedView.Models.Student)ViewData["Students"];
+}
+<h1>StronglyTyped view </h1>
+<p>@Model.id</p>
+<p>@Model.Name</p>
+<p>@Model.Age</p>

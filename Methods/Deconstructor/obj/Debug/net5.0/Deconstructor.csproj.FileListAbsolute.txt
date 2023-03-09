@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.exe
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.deps.json
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.dll
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\ref\Deconstructor.dll
+C:\Users\Admin\source\repos\Methods\Deconstructor\bin\Debug\net5.0\Deconstructor.pdb
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.dll
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\ref\Deconstructor.dll
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.pdb
+C:\Users\Admin\source\repos\Methods\Deconstructor\obj\Debug\net5.0\Deconstructor.genruntimeconfig.cache

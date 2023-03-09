@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.exe
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.deps.json
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.dll
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\ref\SetterGatter.dll
+C:\Users\Admin\source\repos\Methods\SetterGatter\bin\Debug\net5.0\SetterGatter.pdb
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.dll
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\ref\SetterGatter.dll
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.pdb
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Methods\SetterGatter\obj\Debug\net5.0\SetterGatter.csproj.AssemblyReference.cache

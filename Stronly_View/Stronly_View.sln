@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stronly_View", "Stronly_View\Stronly_View.csproj", "{DAB4F186-14AC-4AA9-B278-28886DDA4255}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB4F186-14AC-4AA9-B278-28886DDA4255}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4F186-14AC-4AA9-B278-28886DDA4255}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4F186-14AC-4AA9-B278-28886DDA4255}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4F186-14AC-4AA9-B278-28886DDA4255}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478D5A03-1D7C-479D-A215-367974117BD4}
+	EndGlobalSection
+EndGlobal

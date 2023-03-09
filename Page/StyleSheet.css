@@ -1,0 +1,22 @@
+﻿body {
+
+    padding:10px;
+    margin:10px;
+    background-color:#00ffff;
+}
+form {
+    position:absolute;
+    left:35%;
+    top:25%;
+    padding: 10px;
+    margin: 10px;
+    width:250px;
+    height:250px;
+    background:#ffff;
+    border-radius:10px;
+}
+.inputCol{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:15px;
+    color:silver;
+}

@@ -1,0 +1,78 @@
+﻿@model IEnumerable<DataBaseFirstApproachs.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Information</h2>
+
+<div style="color:darkblue">
+    @Html.Raw(TempData["InsertData"])
+    @Html.Raw(TempData["updateMassage"])
+</div>
+
+
+<table class="table" style="text-align:center">
+    <tr class="btn-primary">
+        <th style="text-align:center">
+
+            @Html.DisplayNameFor(model => model.ID)
+
+        </th>
+        <th style="text-align:center">
+
+            @Html.DisplayNameFor(model => model.FirstName)
+
+        </th>
+
+        <th style="text-align:center">
+
+            @Html.DisplayNameFor(model => model.LastName)
+
+        </th>
+
+        <th style="text-align:center">
+
+            @Html.DisplayNameFor(model => model.Gender)
+
+        </th>
+
+        <th style="text-align:center">
+
+            @Html.DisplayNameFor(model => model.Salary)
+
+        </th>
+
+        <th style="text-align:center">Action</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr style="text-align:center">
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Salary)
+            </td>
+            <td style="text-align:center">
+                @Html.ActionLink("Create New", "Create", new { id = item.ID }, new { @class = "btn btn-success btn-sm" })|
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class = "btn btn-primary" }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @class = "btn btn-info" }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class = "btn btn-danger" })
+
+            </td>
+        </tr>
+    }
+</table>
+<script src="~/Scripts/jquery-1.8.0.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>

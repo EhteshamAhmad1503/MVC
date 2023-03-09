@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@Html.Raw(TempData["LoginMessage"])
+
+<h2 style="color:green">Welcome to  LinkedIn @Session["username"]</h2>
+<table class="table">
+    <td>
+        <img src="~/Image/Ehtesham.jpg" height="200" width="200" /> <br />
+        <a href="https://www.linkedin.com/feed/" target="_blank">Click Here</a>
+    </td>
+</table>
+@Html.ActionLink("Logout", "Logout", "Login")

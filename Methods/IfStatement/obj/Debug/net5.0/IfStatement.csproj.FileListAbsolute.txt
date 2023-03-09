@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.exe
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.deps.json
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.dll
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\ref\IfStatement.dll
+C:\Users\Admin\source\repos\Methods\IfStatement\bin\Debug\net5.0\IfStatement.pdb
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.dll
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\ref\IfStatement.dll
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.pdb
+C:\Users\Admin\source\repos\Methods\IfStatement\obj\Debug\net5.0\IfStatement.genruntimeconfig.cache

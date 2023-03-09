@@ -1,0 +1,15 @@
+﻿body {
+    margin:0;
+    padding:0;
+    background:#00ff21;
+}
+form{
+    position:absolute;
+    justify-content:center;
+    width:300PX;
+    height:255PX;
+    padding:20px;
+    left:40%;
+    top:30%;
+    background:#00ffff;
+ }

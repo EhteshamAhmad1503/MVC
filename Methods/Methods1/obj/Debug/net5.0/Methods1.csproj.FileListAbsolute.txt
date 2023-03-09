@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.exe
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.deps.json
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.dll
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\ref\Methods1.dll
+C:\Users\Admin\source\repos\Methods\Methods1\bin\Debug\net5.0\Methods1.pdb
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.dll
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\ref\Methods1.dll
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.pdb
+C:\Users\Admin\source\repos\Methods\Methods1\obj\Debug\net5.0\Methods1.genruntimeconfig.cache

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="INSUREJOYModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="GetMotor">
+    <Key>
+      <PropertyRef Name="VehicleLookupResponseId" />
+    </Key>
+    <Property Name="VehicleLookupResponseId" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Status" Type="varchar" MaxLength="50" />
+    <Property Name="RegStatus" Type="varchar" MaxLength="50" />
+    <Property Name="Message" Type="varchar" MaxLength="50" />
+    <Property Name="RegistrationNo" Type="varchar" MaxLength="50" />
+    <Property Name="OwnerName" Type="varchar" MaxLength="50" />
+    <Property Name="RegistrationDate" Type="datetime" />
+    <Property Name="ChasisNo" Type="varchar" MaxLength="50" />
+    <Property Name="EngineNo" Type="varchar" MaxLength="50" />
+    <Property Name="vehicleClass" Type="varchar" MaxLength="50" />
+    <Property Name="FuelType" Type="varchar" MaxLength="50" />
+    <Property Name="Maker" Type="varchar(max)" />
+    <Property Name="Rto" Type="varchar" MaxLength="50" />
+    <Property Name="UniqueId" Type="varchar" MaxLength="50" />
+    <Property Name="Make" Type="varchar(max)" />
+    <Property Name="Model" Type="varchar" MaxLength="50" />
+    <Property Name="Variant" Type="varchar" MaxLength="50" />
+    <Property Name="Type" Type="varchar" MaxLength="50" />
+    <Property Name="CreatedOn" Type="datetime" />
+    <Property Name="UpdatedOn" Type="varchar" MaxLength="50" />
+    <Property Name="VLookUpResponseObject" Type="varchar(max)" />
+    <Property Name="LeadId" Type="bigint" />
+    <Property Name="GVW" Type="varchar" MaxLength="50" />
+    <Property Name="insurance_expired" Type="varchar" MaxLength="50" />
+    <Property Name="insurance_policy_no" Type="varchar" MaxLength="50" />
+    <Property Name="insurance_upto" Type="varchar" MaxLength="50" />
+    <Property Name="commercial_flag" Type="varchar" MaxLength="50" />
+    <Property Name="fla_cubic_cap" Type="varchar" MaxLength="50" />
+    <Property Name="FLA_Seat_Capacity" Type="varchar" MaxLength="50" />
+    <Property Name="Insurance_Company" Type="varchar(max)" />
+  </EntityType>
+  <EntityContainer Name="INSUREJOYModelStoreContainer">
+    <EntitySet Name="GetMotor" EntityType="Self.GetMotor" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

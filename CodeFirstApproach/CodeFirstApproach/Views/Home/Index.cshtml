@@ -1,0 +1,81 @@
+﻿@model IEnumerable<CodeFirstApproach.Models.Student>
+
+<style>
+    table {
+        border: 1px solid;
+        border-block-color: aqua;
+        width: 100%;
+    }
+
+    th {
+        border: 1px solid;
+        border-block-color: aqua;
+        background-color: crimson;
+    }
+
+    td {
+        border: 1px solid;
+        font-family: 'Lucida Bright';
+        border-block-color: aqua;
+        color: black;
+        background-color: violet;
+    }
+</style>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2 style="color:green">Data Information</h2>
+
+<p style="color:green;font :italic">@TempData["DataInserted"]</p>
+
+<p style="color:mediumseagreen;font:italic">@TempData["UpdateData"]</p>
+
+<p style="color:mediumseagreen;font:italic">@TempData["DeleteData"]</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Gender)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+        <th>
+            <p>Discription</p>
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Gender)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td style="color:aqua">
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+            </td>
+        </tr>
+    }
+
+</table>

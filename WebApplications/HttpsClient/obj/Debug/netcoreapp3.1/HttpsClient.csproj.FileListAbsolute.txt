@@ -1,0 +1,5 @@
+C:\Users\Admin\source\repos\WebApplications\HttpsClient\obj\Debug\netcoreapp3.1\HttpsClient.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WebApplications\HttpsClient\obj\Debug\netcoreapp3.1\HttpsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WebApplications\HttpsClient\obj\Debug\netcoreapp3.1\HttpsClient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WebApplications\HttpsClient\obj\Debug\netcoreapp3.1\HttpsClient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WebApplications\HttpsClient\obj\Debug\netcoreapp3.1\HttpsClient.csproj.CoreCompileInputs.cache

@@ -1,0 +1,67 @@
+﻿@model DataAnotation.Models.Employee
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+    <p>
+        @Html.LabelFor(model => model.EmployeeId) &nbsp; @Html.TextBoxFor(model => model.EmployeeId, new { @class = "text-control" })
+
+        @Html.ValidationMessageFor(model => model.EmployeeId)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmployeeName) &nbsp; @Html.TextBoxFor(model => model.EmployeeName)
+
+        @Html.ValidationMessageFor(model => model.EmployeeName)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmployeeAge) &nbsp; @Html.TextBoxFor(model => model.EmployeeAge)
+
+        @Html.ValidationMessageFor(model => model.EmployeeAge)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmployeeGender) &nbsp; @Html.TextBoxFor(model => model.EmployeeGender, new { @class = "text-control" })
+
+        @Html.ValidationMessageFor(model => model.EmployeeGender)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmployeeEmail) &nbsp; @Html.TextBoxFor(model => model.EmployeeEmail)
+        @Html.ValidationMessageFor(model => model.EmployeeEmail)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.EmployeePassword) &nbsp; @Html.EditorFor(model => model.EmployeePassword)
+        @Html.ValidationMessageFor(model => model.EmployeePassword)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.ConfirmPassword) &nbsp; @Html.EditorFor(model => model.ConfirmPassword)
+        @Html.ValidationMessageFor(model => model.ConfirmPassword)
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.OranizationName) &nbsp; @Html.TextBoxFor(model => model.OranizationName, new { @Value = "ORGANIZATION", @readonly = true })
+    </p>
+
+    <p>
+        @Html.LabelFor(model => model.EmpAdress) &nbsp; @Html.EditorFor(model => model.EmpAdress)
+        @Html.ValidationMessageFor(model => model.EmpAdress)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.EmpJoiningDate) &nbsp; @Html.EditorFor(model => model.EmpJoiningDate)
+        @Html.ValidationMessageFor(model => model.EmpJoiningDate)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.EmpJoiningTime) &nbsp; @Html.EditorFor(model => model.EmpJoiningTime)
+        @Html.ValidationMessageFor(model => model.EmpJoiningTime)
+    </p>
+
+    <input type="submit" value="submit" />
+    @Html.Raw(ViewData["SuccessMassage"])
+}

@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Md";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>Details</h2>
+
+@{ 
+
+    var obj =(Ahad.Models.Introduction)ViewBag.obj1;
+    <span> <b> ID Is</b> : @obj.id </span> <br />
+    <span> <b>Name Is</b>: @obj.Name </span> <br />
+    <span><b>Course Is</b> : @obj.Course </span><br />
+    <span><b>City Is</b>: @obj.City </span><br />
+    <span><b>Collage Is</b>: @obj.Collage </span>
+   
+    
+}
+

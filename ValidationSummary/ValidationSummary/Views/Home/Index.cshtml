@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<p>
+    @Html.ValidationSummary("", new { @class = "text-danger" });
+</p>
+
+@using (Html.BeginForm())
+{
+    <p> Enter Name @Html.TextBox("FullName") <b style="background-color:red">@ViewData["FullNameError"]</b> @*@Html.ValidationMessage("FullName")*@ </p>
+
+    <p> Enter Age  @Html.TextBox("Age") <b style="background-color:red"> @ViewData["AgeError"]</b> @*@Html.ValidationMessage("Age")*@ </p>
+
+    <p>Enter Email @Html.TextBox("Email") <b style="background-color:red"> @ViewData["EmailError"] </b>@*@Html.ValidationMessage("Email")*@ </p>
+
+    <input type="submit" value="submit" />
+
+}

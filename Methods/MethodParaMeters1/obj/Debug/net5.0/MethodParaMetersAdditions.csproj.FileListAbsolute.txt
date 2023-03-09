@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.exe
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.deps.json
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.dll
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\ref\MethodParaMetersAdditions.dll
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\bin\Debug\net5.0\MethodParaMetersAdditions.pdb
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.dll
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\ref\MethodParaMetersAdditions.dll
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.pdb
+C:\Users\Admin\source\repos\Methods\MethodParaMeters1\obj\Debug\net5.0\MethodParaMetersAdditions.genruntimeconfig.cache

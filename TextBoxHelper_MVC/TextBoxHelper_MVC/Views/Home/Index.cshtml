@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<input type="text" name="FullNmae" value="" />
+<br />
+<br />
+@Html.TextBox("FullName")
+<br />
+<br />
+@Html.TextBox("FullName", "Ehtesham", new { style = "background-color:aqua;color:red; ", title = "Please Enter Your Name" })
+<br />
+<br />
+@Html.TextBox("FullName", "Ahmad", new { @class = "TextBoxStyle" })
+<br />
+<br />
+@Html.TextBox("FullName", "Enter Your Name", new { @class = "form-control", @readonly = true })

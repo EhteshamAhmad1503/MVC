@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.exe
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.deps.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.dll
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\ref\IfElseStatement.dll
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\IfElseStatement.pdb
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.dll
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\ref\IfElseStatement.dll
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.pdb
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\IfElseStatement.genruntimeconfig.cache

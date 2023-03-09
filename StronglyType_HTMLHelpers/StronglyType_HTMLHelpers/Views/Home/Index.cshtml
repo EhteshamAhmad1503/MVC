@@ -1,0 +1,24 @@
+﻿@model StronglyType_HTMLHelpers.Models.SignUp
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+
+     @Html.HiddenFor(model => model.UserId)
+
+    <p>@Html.LabelFor(model => model.UserName) &nbsp; @Html.TextBoxFor(model => model.UserName)</p>
+
+    <p>@Html.LabelFor(model => model.UserPassword) &nbsp; @Html.PasswordFor(model => model.UserPassword)</p>
+
+    <p>@Html.LabelFor(model => model.UserGender) &nbsp; @Html.DropDownListFor(model => model.UserGender, new SelectList(new[] { "Male", "Female" }), "Select")</p>
+
+    <p>@Html.LabelFor(model => model.UserEmail) &nbsp; @Html.EditorFor(model => model.UserEmail)</p>
+
+    <p>@Html.LabelFor(model => model.UserComments) &nbsp; @Html.TextAreaFor(model => model.UserPassword)</p>
+
+    <input type="submit" value="submit" class="body-content" />
+}

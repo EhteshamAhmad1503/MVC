@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.exe
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.deps.json
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.runtimeconfig.json
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.dll
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\ref\BankDetails.dll
+C:\Users\Admin\source\repos\Training\BankDetails\bin\Debug\net5.0\BankDetails.pdb
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.dll
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\ref\BankDetails.dll
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.pdb
+C:\Users\Admin\source\repos\Training\BankDetails\obj\Debug\net5.0\BankDetails.genruntimeconfig.cache

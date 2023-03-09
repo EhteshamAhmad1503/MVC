@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<ul>
+    @{
+        foreach (var item in ViewBag.SportsList)
+        {
+            <li>@item</li>
+        }
+    }
+</ul>
+
+@{
+    var data = ViewBag.Data;
+}
+
+<li>@data.ID</li>
+<li>@data.FirstName</li>
+<li>@data.LastName</li>
+<li>@data.Gender</li>
+<li>@data.Salary</li>

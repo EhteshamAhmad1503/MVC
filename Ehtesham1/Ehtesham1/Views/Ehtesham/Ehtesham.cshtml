@@ -1,0 +1,19 @@
+﻿@model Ehtesham1.Models.Student
+@{
+    ViewBag.Title = "Ehtesham";
+    Layout = "~/Views/Shared/_MyLayout.cshtml";
+}
+
+<h2>Ehtesham</h2>
+
+@{
+
+    var obj = (Ehtesham1.Models.Student)ViewBag.std;
+    <span>ID IS: @obj.ID  </span>
+    <br />
+    <span>Name Is: @obj.Name </span>
+    <br />
+    <span>Department Is: @obj.Department </span><br />
+}
+
+<span>ID is: @Model.ID</span>

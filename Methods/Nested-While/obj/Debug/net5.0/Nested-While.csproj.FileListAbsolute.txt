@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.exe
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.deps.json
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.dll
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\ref\Nested-While.dll
+C:\Users\Admin\source\repos\Methods\Nested-While\bin\Debug\net5.0\Nested-While.pdb
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.dll
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\ref\Nested-While.dll
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.pdb
+C:\Users\Admin\source\repos\Methods\Nested-While\obj\Debug\net5.0\Nested-While.genruntimeconfig.cache

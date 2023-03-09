@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\bin\Debug\MVCDemoDb.dacpac
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\bin\Debug\MVCDemoDb.dll
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\bin\Debug\MVCDemoDb.pdb
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\obj\Debug\MVCDemoDb.sqlproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\obj\Debug\MVCDemoDb.dll
+C:\Users\Admin\source\repos\EmployeeApplication\MVCDemoDb\obj\Debug\MVCDemoDb.pdb

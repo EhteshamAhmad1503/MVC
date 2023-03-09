@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome to My Application</h2>
+
+@{
+    <h2>View Data is = @ViewData["Arrays"]</h2>
+    <h2>View Bag is  = @ViewBag.Massage </h2>
+    <h2>Temp Data is = @TempData["Name"] </h2>
+}
+
+
+@{
+    var a = TempData["GamesList"];
+}
+
+@{
+    foreach (string i in (string[])TempData["GamesList"])
+    {
+        <li>@i</li>
+    }
+}

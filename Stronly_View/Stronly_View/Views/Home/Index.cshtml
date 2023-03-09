@@ -1,0 +1,44 @@
+﻿@model List<Stronly_View.Models.Employee>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@{
+    var a = (Stronly_View.Models.Employee)ViewData["Information"];
+    var b = ViewBag.Data;
+}
+
+<h1>Data from View Data</h1>
+
+<h2>@a.EmpID</h2>
+<h2>@a.Employee_Name</h2>
+<h2>@a.Designation</h2>
+<h2>@a.Salary</h2>
+
+<h1>Data from view Bag</h1>
+
+<h2>@b.EmpID</h2>
+<h2>@b.Employee_Name</h2>
+<h2>@b.Designation</h2>
+<h2>@b.Salary</h2>
+
+<h1>Data from Strongly Data</h1>
+<ul>
+    @{
+        foreach (var i in Model)
+        {
+            <li>@i.EmpID</li>
+            <li>@i.Employee_Name</li>
+            <li>@i.Designation</li>
+            <li>@i.Salary</li>
+        }
+    }
+</ul>
+
+@*<h2>@Model.EmpID</h2>
+    <h2>@Model.Employee_Name</h2>
+    <h2>@Model.Designation</h2>
+    <h2>@Model.Salary</h2>*@

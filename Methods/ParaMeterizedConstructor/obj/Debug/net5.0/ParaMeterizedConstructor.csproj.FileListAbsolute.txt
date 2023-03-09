@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.exe
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.deps.json
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ref\ParaMeterizedConstructor.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\bin\Debug\net5.0\ParaMeterizedConstructor.pdb
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ref\ParaMeterizedConstructor.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.pdb
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterizedConstructor\obj\Debug\net5.0\ParaMeterizedConstructor.csproj.AssemblyReference.cache

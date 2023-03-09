@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.exe
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.deps.json
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.dll
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\ref\Nested-For-Loop.dll
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\bin\Debug\net5.0\Nested-For-Loop.pdb
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.dll
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\ref\Nested-For-Loop.dll
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.pdb
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Methods\Nested-For-Loop\obj\Debug\net5.0\Nested-For-Loop.csproj.AssemblyReference.cache

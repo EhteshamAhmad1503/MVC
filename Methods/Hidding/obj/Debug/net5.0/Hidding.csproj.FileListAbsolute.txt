@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.exe
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.deps.json
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.dll
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\ref\Hidding.dll
+C:\Users\Admin\source\repos\Methods\Hidding\bin\Debug\net5.0\Hidding.pdb
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.dll
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\ref\Hidding.dll
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.pdb
+C:\Users\Admin\source\repos\Methods\Hidding\obj\Debug\net5.0\Hidding.genruntimeconfig.cache

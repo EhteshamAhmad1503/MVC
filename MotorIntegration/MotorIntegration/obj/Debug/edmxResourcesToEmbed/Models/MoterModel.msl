@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="INSUREJOYModelStoreContainer" CdmEntityContainer="INSUREJOYEntities">
+    <EntitySetMapping Name="GetMotors">
+      <EntityTypeMapping TypeName="INSUREJOYModel.GetMotor">
+        <MappingFragment StoreEntitySet="GetMotor">
+          <ScalarProperty Name="VehicleLookupResponseId" ColumnName="VehicleLookupResponseId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="RegStatus" ColumnName="RegStatus" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="RegistrationNo" ColumnName="RegistrationNo" />
+          <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+          <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+          <ScalarProperty Name="ChasisNo" ColumnName="ChasisNo" />
+          <ScalarProperty Name="EngineNo" ColumnName="EngineNo" />
+          <ScalarProperty Name="vehicleClass" ColumnName="vehicleClass" />
+          <ScalarProperty Name="FuelType" ColumnName="FuelType" />
+          <ScalarProperty Name="Maker" ColumnName="Maker" />
+          <ScalarProperty Name="Rto" ColumnName="Rto" />
+          <ScalarProperty Name="UniqueId" ColumnName="UniqueId" />
+          <ScalarProperty Name="Make" ColumnName="Make" />
+          <ScalarProperty Name="Model" ColumnName="Model" />
+          <ScalarProperty Name="Variant" ColumnName="Variant" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+          <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+          <ScalarProperty Name="VLookUpResponseObject" ColumnName="VLookUpResponseObject" />
+          <ScalarProperty Name="LeadId" ColumnName="LeadId" />
+          <ScalarProperty Name="GVW" ColumnName="GVW" />
+          <ScalarProperty Name="insurance_expired" ColumnName="insurance_expired" />
+          <ScalarProperty Name="insurance_policy_no" ColumnName="insurance_policy_no" />
+          <ScalarProperty Name="insurance_upto" ColumnName="insurance_upto" />
+          <ScalarProperty Name="commercial_flag" ColumnName="commercial_flag" />
+          <ScalarProperty Name="fla_cubic_cap" ColumnName="fla_cubic_cap" />
+          <ScalarProperty Name="FLA_Seat_Capacity" ColumnName="FLA_Seat_Capacity" />
+          <ScalarProperty Name="Insurance_Company" ColumnName="Insurance_Company" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

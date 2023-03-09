@@ -1,0 +1,19 @@
+﻿@model StronglyType_HTMLHelpers.Models.Calculation
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@using (Html.BeginForm())
+{
+
+    <p>@Html.LabelFor(model => model.Num) &nbsp; @Html.TextBoxFor(model => model.Num)</p>
+
+    <p>@Html.LabelFor(model => model.Num1) &nbsp; @Html.TextBoxFor(model => model.Num1)</p>
+
+    <input type="submit" value="submit" />
+
+    <p>Total Value  is : @ViewBag.Calculate</p>
+}

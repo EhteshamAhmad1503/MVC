@@ -1,0 +1,28 @@
+﻿@model LogIn.Models.DbModel
+
+@{
+    ViewBag.Title = "Db";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Db</h2>
+
+<div>
+
+    @Html.ActionLink("Login with facebook", "Facebook", "Home")
+
+    <table>
+
+        <tr><td>Email:</td><td><b>@TempData["ID"]</b></td></tr>
+
+        <tr><td>First Name:</td><td><b>@TempData["Name"]</b></td></tr>
+
+        <tr><td>Last Name:</td><td><b>@TempData["Designation"]</b></td></tr>
+
+        <tr><td>Picture:</td><td><b><img src="@TempData["Salary"]" /></b></td></tr>
+
+
+
+    </table>
+
+</div>

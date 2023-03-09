@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.exe
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.deps.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.dll
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\ref\Statement.dll
+C:\Users\Admin\source\repos\Methods\Statement\bin\Debug\net5.0\Statement.pdb
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.dll
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\ref\Statement.dll
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.pdb
+C:\Users\Admin\source\repos\Methods\Statement\obj\Debug\net5.0\Statement.genruntimeconfig.cache

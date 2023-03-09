@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.exe
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.deps.json
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.dll
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ref\ReadWrite.dll
+C:\Users\Admin\source\repos\Methods\ReadWrite\bin\Debug\net5.0\ReadWrite.pdb
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.dll
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ref\ReadWrite.dll
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.pdb
+C:\Users\Admin\source\repos\Methods\ReadWrite\obj\Debug\net5.0\ReadWrite.genruntimeconfig.cache

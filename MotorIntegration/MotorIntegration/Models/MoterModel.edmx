@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="INSUREJOYModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="GetMotor">
+          <Key>
+            <PropertyRef Name="VehicleLookupResponseId" />
+          </Key>
+          <Property Name="VehicleLookupResponseId" Type="varchar" MaxLength="50" Nullable="false" />
+          <Property Name="Status" Type="varchar" MaxLength="50" />
+          <Property Name="RegStatus" Type="varchar" MaxLength="50" />
+          <Property Name="Message" Type="varchar" MaxLength="50" />
+          <Property Name="RegistrationNo" Type="varchar" MaxLength="50" />
+          <Property Name="OwnerName" Type="varchar" MaxLength="50" />
+          <Property Name="RegistrationDate" Type="datetime" />
+          <Property Name="ChasisNo" Type="varchar" MaxLength="50" />
+          <Property Name="EngineNo" Type="varchar" MaxLength="50" />
+          <Property Name="vehicleClass" Type="varchar" MaxLength="50" />
+          <Property Name="FuelType" Type="varchar" MaxLength="50" />
+          <Property Name="Maker" Type="varchar(max)" />
+          <Property Name="Rto" Type="varchar" MaxLength="50" />
+          <Property Name="UniqueId" Type="varchar" MaxLength="50" />
+          <Property Name="Make" Type="varchar(max)" />
+          <Property Name="Model" Type="varchar" MaxLength="50" />
+          <Property Name="Variant" Type="varchar" MaxLength="50" />
+          <Property Name="Type" Type="varchar" MaxLength="50" />
+          <Property Name="CreatedOn" Type="datetime" />
+          <Property Name="UpdatedOn" Type="varchar" MaxLength="50" />
+          <Property Name="VLookUpResponseObject" Type="varchar(max)" />
+          <Property Name="LeadId" Type="bigint" />
+          <Property Name="GVW" Type="varchar" MaxLength="50" />
+          <Property Name="insurance_expired" Type="varchar" MaxLength="50" />
+          <Property Name="insurance_policy_no" Type="varchar" MaxLength="50" />
+          <Property Name="insurance_upto" Type="varchar" MaxLength="50" />
+          <Property Name="commercial_flag" Type="varchar" MaxLength="50" />
+          <Property Name="fla_cubic_cap" Type="varchar" MaxLength="50" />
+          <Property Name="FLA_Seat_Capacity" Type="varchar" MaxLength="50" />
+          <Property Name="Insurance_Company" Type="varchar(max)" />
+        </EntityType>
+        <EntityContainer Name="INSUREJOYModelStoreContainer">
+          <EntitySet Name="GetMotor" EntityType="Self.GetMotor" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="INSUREJOYModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="GetMotor">
+          <Key>
+            <PropertyRef Name="VehicleLookupResponseId" />
+          </Key>
+          <Property Name="VehicleLookupResponseId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+          <Property Name="Status" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="RegStatus" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Message" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="RegistrationNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="OwnerName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="RegistrationDate" Type="DateTime" Precision="3" />
+          <Property Name="ChasisNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="EngineNo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="vehicleClass" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FuelType" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Maker" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Rto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="UniqueId" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Make" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="Model" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Variant" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Type" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="CreatedOn" Type="DateTime" Precision="3" />
+          <Property Name="UpdatedOn" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="VLookUpResponseObject" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="LeadId" Type="Int64" />
+          <Property Name="GVW" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="insurance_expired" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="insurance_policy_no" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="insurance_upto" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="commercial_flag" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="fla_cubic_cap" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="FLA_Seat_Capacity" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Insurance_Company" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="INSUREJOYEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="GetMotors" EntityType="Self.GetMotor" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="INSUREJOYModelStoreContainer" CdmEntityContainer="INSUREJOYEntities">
+          <EntitySetMapping Name="GetMotors">
+            <EntityTypeMapping TypeName="INSUREJOYModel.GetMotor">
+              <MappingFragment StoreEntitySet="GetMotor">
+                <ScalarProperty Name="VehicleLookupResponseId" ColumnName="VehicleLookupResponseId" />
+                <ScalarProperty Name="Status" ColumnName="Status" />
+                <ScalarProperty Name="RegStatus" ColumnName="RegStatus" />
+                <ScalarProperty Name="Message" ColumnName="Message" />
+                <ScalarProperty Name="RegistrationNo" ColumnName="RegistrationNo" />
+                <ScalarProperty Name="OwnerName" ColumnName="OwnerName" />
+                <ScalarProperty Name="RegistrationDate" ColumnName="RegistrationDate" />
+                <ScalarProperty Name="ChasisNo" ColumnName="ChasisNo" />
+                <ScalarProperty Name="EngineNo" ColumnName="EngineNo" />
+                <ScalarProperty Name="vehicleClass" ColumnName="vehicleClass" />
+                <ScalarProperty Name="FuelType" ColumnName="FuelType" />
+                <ScalarProperty Name="Maker" ColumnName="Maker" />
+                <ScalarProperty Name="Rto" ColumnName="Rto" />
+                <ScalarProperty Name="UniqueId" ColumnName="UniqueId" />
+                <ScalarProperty Name="Make" ColumnName="Make" />
+                <ScalarProperty Name="Model" ColumnName="Model" />
+                <ScalarProperty Name="Variant" ColumnName="Variant" />
+                <ScalarProperty Name="Type" ColumnName="Type" />
+                <ScalarProperty Name="CreatedOn" ColumnName="CreatedOn" />
+                <ScalarProperty Name="UpdatedOn" ColumnName="UpdatedOn" />
+                <ScalarProperty Name="VLookUpResponseObject" ColumnName="VLookUpResponseObject" />
+                <ScalarProperty Name="LeadId" ColumnName="LeadId" />
+                <ScalarProperty Name="GVW" ColumnName="GVW" />
+                <ScalarProperty Name="insurance_expired" ColumnName="insurance_expired" />
+                <ScalarProperty Name="insurance_policy_no" ColumnName="insurance_policy_no" />
+                <ScalarProperty Name="insurance_upto" ColumnName="insurance_upto" />
+                <ScalarProperty Name="commercial_flag" ColumnName="commercial_flag" />
+                <ScalarProperty Name="fla_cubic_cap" ColumnName="fla_cubic_cap" />
+                <ScalarProperty Name="FLA_Seat_Capacity" ColumnName="FLA_Seat_Capacity" />
+                <ScalarProperty Name="Insurance_Company" ColumnName="Insurance_Company" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

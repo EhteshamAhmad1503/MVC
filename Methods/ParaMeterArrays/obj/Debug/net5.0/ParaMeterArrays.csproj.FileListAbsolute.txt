@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.exe
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.deps.json
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.runtimeconfig.json
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ref\ParaMeterArrays.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\bin\Debug\net5.0\ParaMeterArrays.pdb
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ref\ParaMeterArrays.dll
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.pdb
+C:\Users\Admin\source\repos\Methods\ParaMeterArrays\obj\Debug\net5.0\ParaMeterArrays.genruntimeconfig.cache
